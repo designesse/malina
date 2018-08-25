@@ -21,7 +21,7 @@ description:
   beauty and meaning.
 baseurl: ""
 
-url: "http://designesse.github.io/malina"
+url: "http://designesse.github.io/malina/_site"
 github_username: designesse
 
 include: ["_pages"]
